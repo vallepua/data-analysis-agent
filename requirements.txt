@@ -1,0 +1,13 @@
+streamlit
+groq
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+pillow
+openpyxl
+xlrd
+fpdf2
+python-dotenv

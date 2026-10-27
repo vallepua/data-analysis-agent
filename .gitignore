@@ -1,0 +1,10 @@
+.env
+.streamlit/secrets.toml
+venv/
+.venv/
+__pycache__/
+*.pyc
+outputs/
+backup_old/
+untitled folder/
+.DS_Store
